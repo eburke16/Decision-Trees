@@ -1,7 +1,7 @@
 # Decision Trees
 This repository contains Machine Learning examples of Decision Trees in Python. Decision trees are tree structures containing rules.  The leaf nodes of the tree are the "learned" categories (or threshold values). A path from the root to a leaf node represents a rule.
 
-Assignments from my courses at Johns Hopkins and Columbia University are provided here.  They broken down into two different types of Decision Trees:
+Assignments from my courses at Johns Hopkins and Columbia University are provided here as examples of my work.  They broken down into two different types of Decision Trees:
 
 <li><b>Classification trees:</b> </li>
  - Uses rules to classify cases into two or more categories (an easy example to relate to: Bird vs. Fish)<br>
